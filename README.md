@@ -1,4 +1,5 @@
-# Gallery Frontend Project
+# Gallery Frontend
+<img width="1425" alt="Gallery Project" src="https://github.com/vishwanathkarka/GalleryFrontend/assets/86046138/7bb5ffd9-6cb5-444c-b0d5-a60539d9ae6c">
 
 ## Dependencys
 react-dom
